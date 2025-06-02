@@ -1,5 +1,5 @@
 # **Blue Archive Character**
-###**直接游玩游戏：https://baguesser.071400.xyz/**###
+###**直接游玩游戏：https://baguesser.071400.xyz/**
 ##### 🔍蔚蓝档案中国大陆服务器所有角色档案，更新到当期日程笔记的预告
 ##### 🔍Blue Archive China Mainland server all character archives, updated to the current schedule notes
 #### **❗❗注意：此项目只适用于中国大陆服务器，日服和国际服的信息不包含在内**
