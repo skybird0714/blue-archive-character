@@ -63,6 +63,8 @@
 All values are in Chinese, only field names have both Chinese and English
 - 所有内容为我手动收集，难免有信息错误，如发现错误，请直接在issue进行反馈，谢谢
 All content was collected manually by me, so there may be some wrong information. If any wrong informations are found, please provide feedback directly on the issue. Thank you
+- 所有名字均采用中国大陆服务器译名
+All names are translated from China Mainland server
 
 ## 🌐字段说明 | Description
 - `武器类型` 指的是专武类型
