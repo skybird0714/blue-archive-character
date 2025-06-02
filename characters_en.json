@@ -114,7 +114,7 @@
   "10": {
     "name": "栗村 爱理",
     "intro_link": "https://kivo.wiki/data/character/10",
-    "avatar_url": "https://static.kivo.wiki/images/students/栗村爱莉/avatar.png",
+    "avatar_url": "https://static.kivo.wiki/images/students/栗村%20爱莉/avatar.png",
     "school": "崔尼蒂综合学院",
     "club": "甜点部",
     "weapon": "冲锋枪",
@@ -240,7 +240,7 @@
   "27": {
     "name": "才羽 绿",
     "intro_link": "https://kivo.wiki/data/character/27",
-    "avatar_url": "https://static.kivo.wiki/images/students/才羽%20绿/avatar.png",
+    "avatar_url": "https://static.kivo.wiki/images/students/才羽绿/avatar.png",
     "school": "千禧年科技学院",
     "club": "游戏开发部",
     "weapon": "狙击枪",
@@ -322,9 +322,9 @@
     "limit": "否"
   },
   "35": {
-    "name": "秤亚 津子",
+    "name": "秤 亚津子",
     "intro_link": "https://kivo.wiki/data/character/35",
-    "avatar_url": "https://static.kivo.wiki/images/students/秤亚%20津子/avatar.png",
+    "avatar_url": "https://static.kivo.wiki/images/students/秤%20亚津子/avatar.png",
     "school": "阿里乌斯分校",
     "club": "阿里乌斯战术小队",
     "weapon": "冲锋枪",
@@ -408,7 +408,7 @@
   "41": {
     "name": "狐坂 若藻（泳装）",
     "intro_link": "https://kivo.wiki/data/character/41",
-    "avatar_url": "https://static.kivo.wiki/images/students/狐坂%20若藻/泳装/avatar.png",
+    "avatar_url": "https://static.kivo.wiki/images/students/狐坂%20若藻/avatar.png",
     "school": "百鬼夜行联合学院",
     "club": "七囚人",
     "weapon": "狙击枪",
@@ -450,7 +450,7 @@
   "45": {
     "name": "池仓 真里奈",
     "intro_link": "https://kivo.wiki/data/character/45",
-    "avatar_url": "https://static.kivo.wiki/images/students/池仓%20玛丽娜/avatar.png",
+    "avatar_url": "https://static.kivo.wiki/images/students/池仓%20玛利娜/avatar.png",
     "school": "红冬联邦学院",
     "club": "红冬事务局",
     "weapon": "冲锋枪",
@@ -506,7 +506,7 @@
   "49": {
     "name": "爱清 风香（新年）",
     "intro_link": "https://kivo.wiki/data/character/49",
-    "avatar_url": "https://static.kivo.wiki/images/students/爱清%20风香/正月/avatar.png",
+    "avatar_url": "https://static.kivo.wiki/images/students/爱清%20枫香/正月/avatar.png",
     "school": "歌赫娜学院",
     "club": "供餐部",
     "weapon": "冲锋枪",
@@ -534,7 +534,7 @@
   "51": {
     "name": "猫冢 响（应援团）",
     "intro_link": "https://kivo.wiki/data/character/51",
-    "avatar_url": "https://static.kivo.wiki/images/students/猫冢%20响/应援团/avatar.png",
+    "avatar_url": "https://static.kivo.wiki/images/students/猫塚%20响/avatar.png",
     "school": "千禧年科技学院",
     "club": "工程部",
     "weapon": "迫击炮",
@@ -548,7 +548,7 @@
   "52": {
     "name": "早濑 优香",
     "intro_link": "https://kivo.wiki/data/character/52",
-    "avatar_url": "https://static.kivo.wiki/images/students/早濑%20优香/avatar.png",
+    "avatar_url": "https://static.kivo.wiki/images/students/早瀬%20优香/avatar.png",
     "school": "千禧年科技学院",
     "club": "研讨会",
     "weapon": "冲锋枪",
@@ -576,7 +576,7 @@
   "54": {
     "name": "早濑 优香（体操服）",
     "intro_link": "https://kivo.wiki/data/character/54",
-    "avatar_url": "https://static.kivo.wiki/images/students/早濑%20优香/体操服/avatar.png",
+    "avatar_url": "https://static.kivo.wiki/images/students/早濑%20优香/avatar.png",
     "school": "千禧年科技学院",
     "club": "研讨会",
     "weapon": "冲锋枪",
@@ -590,7 +590,7 @@
   "55": {
     "name": "伊落 玛丽（体操服）",
     "intro_link": "https://kivo.wiki/data/character/55",
-    "avatar_url": "https://static.kivo.wiki/images/students/伊落%20玛丽/体操服/avatar.png",
+    "avatar_url": "https://static.kivo.wiki/images/students/伊落%20玛丽/体育服/avatar.png",
     "school": "崔尼蒂综合学院",
     "club": "姐妹会",
     "weapon": "手枪",
@@ -646,7 +646,7 @@
   "60": {
     "name": "羽川 莲见（体操服）",
     "intro_link": "https://kivo.wiki/data/character/60",
-    "avatar_url": "https://static.kivo.wiki/images/students/羽川%20莲见/体操服/avatar.png",
+    "avatar_url": "https://static.kivo.wiki/images/students/羽川%20莲见/体育服/avatar.png",
     "school": "崔尼蒂综合学院",
     "club": "正义实现委员会",
     "weapon": "狙击枪",
@@ -954,7 +954,7 @@
   "87": {
     "name": "砂狼 白子（骑行）",
     "intro_link": "https://kivo.wiki/data/character/87",
-    "avatar_url": "https://static.kivo.wiki/images/students/砂狼%20白子/骑行服/avatar.png",
+    "avatar_url": "https://static.kivo.wiki/images/students/砂狼%20白子/单车/avatar.png",
     "school": "阿拜多斯高等学院",
     "club": "对策委员会",
     "weapon": "突击步枪",
@@ -1094,7 +1094,7 @@
   "97": {
     "name": "爱清 风香",
     "intro_link": "https://kivo.wiki/data/character/97",
-    "avatar_url": "https://static.kivo.wiki/images/students/爱清%20风香/avatar.png",
+    "avatar_url": "https://static.kivo.wiki/images/students/爱清%20枫香/avatar.png",
     "school": "歌赫娜学院",
     "club": "供餐部",
     "weapon": "冲锋枪",
@@ -1192,7 +1192,7 @@
   "104": {
     "name": "阿洛娜",
     "intro_link": "https://kivo.wiki/data/character/104",
-    "avatar_url": "https://static.kivo.wiki/images/students/阿洛娜/avatar.png",
+    "avatar_url": "https://static.kivo.wiki/images/students/阿罗娜/avatar.png",
     "school": "?",
     "club": "?",
     "weapon": "?",
@@ -1304,7 +1304,7 @@
   "113": {
     "name": "一之濑 明日奈",
     "intro_link": "https://kivo.wiki/data/character/113",
-    "avatar_url": "https://static.kivo.wiki/images/students/一之濑%20明日奈/avatar.png",
+    "avatar_url": "https://static.kivo.wiki/images/students/一之瀬%20明日奈/avatar.png",
     "school": "千禧年科技学院",
     "club": "C&C",
     "weapon": "突击步枪",
@@ -1318,7 +1318,7 @@
   "114": {
     "name": "仲正 一花",
     "intro_link": "https://kivo.wiki/data/character/114",
-    "avatar_url": "https://static.kivo.wiki/images/students/仲正%20一花/avatar.png",
+    "avatar_url": "https://static.kivo.wiki/images/students/仲正%20一花/original/avatar.png",
     "school": "崔尼蒂综合学院",
     "club": "正义实现委员会",
     "weapon": "突击步枪",
@@ -1332,7 +1332,7 @@
   "116": {
     "name": "鬼怒川 霞",
     "intro_link": "https://kivo.wiki/data/character/116",
-    "avatar_url": "https://static.kivo.wiki/images/students/鬼怒川%20霞/avatar.png",
+    "avatar_url": "https://static.kivo.wiki/images/students/鬼怒川%20霞/original/avatar.png",
     "school": "歌赫娜学院",
     "club": "温泉开发部",
     "weapon": "手枪",
@@ -1414,9 +1414,9 @@
     "limit": "是"
   },
   "122": {
-    "name": "银镜 伊织",
+    "name": "银镜 伊织（泳装）",
     "intro_link": "https://kivo.wiki/data/character/122",
-    "avatar_url": "https://static.kivo.wiki/images/students/银镜%20伊织/avatar.png",
+    "avatar_url": "https://static.kivo.wiki/images/students/银镜%20伊织/泳装/avatar.png",
     "school": "歌赫娜学院",
     "club": "风纪委员会",
     "weapon": "狙击枪",
@@ -1472,7 +1472,7 @@
   "129": {
     "name": "苍森 美祢",
     "intro_link": "https://kivo.wiki/data/character/129",
-    "avatar_url": "https://static.kivo.wiki/images/students/苍森%20美祢/avatar.png",
+    "avatar_url": "https://static.kivo.wiki/images/students/苍森%20美弥/avatar.png",
     "school": "崔尼蒂综合学院",
     "club": "救护骑士团",
     "weapon": "霰弹枪",
@@ -1486,7 +1486,7 @@
   "130": {
     "name": "一之濑 明日奈（邦尼）",
     "intro_link": "https://kivo.wiki/data/character/130",
-    "avatar_url": "https://static.kivo.wiki/images/students/一之濑%20明日奈/邦尼/avatar.png",
+    "avatar_url": "https://static.kivo.wiki/images/students/一之濑%20明日奈/兔女郎/avatar.png",
     "school": "千禧年科技学院",
     "club": "C&C",
     "weapon": "突击步枪",
@@ -1500,7 +1500,7 @@
   "131": {
     "name": "近卫 南",
     "intro_link": "https://kivo.wiki/data/character/131",
-    "avatar_url": "https://static.kivo.wiki/images/students/近卫%20南/avatar.png",
+    "avatar_url": "https://static.kivo.wiki/images/students/佐藤%20南/avatar.png",
     "school": "山海经高等学院",
     "club": "玄龙门",
     "weapon": "手枪",
@@ -1514,7 +1514,7 @@
   "132": {
     "name": "室笠 茜（邦尼）",
     "intro_link": "https://kivo.wiki/data/character/132",
-    "avatar_url": "https://static.kivo.wiki/images/students/室笠%20茜/邦尼/avatar.png",
+    "avatar_url": "https://static.kivo.wiki/images/students/室笠%20茜/兔女郎/avatar.png",
     "school": "千禧年科技学院",
     "club": "C&C",
     "weapon": "手枪",
@@ -1528,7 +1528,7 @@
   "137": {
     "name": "角楯 花凛（邦尼）",
     "intro_link": "https://kivo.wiki/data/character/137",
-    "avatar_url": "https://static.kivo.wiki/images/students/角楯%20花凛/邦尼/avatar.png",
+    "avatar_url": "https://static.kivo.wiki/images/students/角楯%20花凛/兔女郎/avatar.png",
     "school": "千禧年科技学院",
     "club": "C&C",
     "weapon": "狙击枪",
@@ -1542,7 +1542,7 @@
   "138": {
     "name": "美甘 妮露（邦尼）",
     "intro_link": "https://kivo.wiki/data/character/138",
-    "avatar_url": "https://static.kivo.wiki/images/students/美甘%20妮禄/邦尼/avatar.png",
+    "avatar_url": "https://static.kivo.wiki/images/students/美甘%20尼禄/兔女郎/avatar.png",
     "school": "千禧年科技学院",
     "club": "C&C",
     "weapon": "冲锋枪",
@@ -1584,7 +1584,7 @@
   "141": {
     "name": "连河 切里诺（温泉）",
     "intro_link": "https://kivo.wiki/data/character/141",
-    "avatar_url": "https://static.kivo.wiki/images/students/连河%20切里诺/温泉/avatar.png",
+    "avatar_url": "https://static.kivo.wiki/images/students/连河%20切利诺/温泉/avatar.png",
     "school": "红冬联邦学院",
     "club": "红冬事务局",
     "weapon": "手枪",
@@ -1682,7 +1682,7 @@
   "153": {
     "name": "鹫见 芹娜（圣诞）",
     "intro_link": "https://kivo.wiki/data/character/153",
-    "avatar_url": "https://static.kivo.wiki/images/students/鹫见%20芹娜/圣诞/avatar.png",
+    "avatar_url": "https://static.kivo.wiki/images/students/鹫见%20芹娜/圣诞节/avatar.png",
     "school": "崔尼蒂综合学院",
     "club": "救护骑士团",
     "weapon": "突击步枪",
@@ -1696,7 +1696,7 @@
   "154": {
     "name": "黑馆 晴奈（体操服）",
     "intro_link": "https://kivo.wiki/data/character/154",
-    "avatar_url": "https://static.kivo.wiki/images/students/黑馆%20晴奈/体操服/avatar.png",
+    "avatar_url": "https://static.kivo.wiki/images/students/黑馆%20晴奈/体育服/avatar.png",
     "school": "歌赫娜学院",
     "club": "美食研究会",
     "weapon": "狙击枪",
@@ -1752,7 +1752,7 @@
   "166": {
     "name": "安守 实梨",
     "intro_link": "https://kivo.wiki/data/character/166",
-    "avatar_url": "https://static.kivo.wiki/images/students/安守%20实梨/avatar.png",
+    "avatar_url": "https://static.kivo.wiki/images/students/安守%20未乃里/avatar.png",
     "school": "红冬联邦学院",
     "club": "工务部",
     "weapon": "突击步枪",
@@ -1822,7 +1822,7 @@
   "178": {
     "name": "朝颜 花江（圣诞）",
     "intro_link": "https://kivo.wiki/data/character/178",
-    "avatar_url": "https://static.kivo.wiki/images/students/朝颜%20花江/圣诞/avatar.png",
+    "avatar_url": "https://static.kivo.wiki/images/students/朝颜%20花江/圣诞节/avatar.png",
     "school": "崔尼蒂综合学院",
     "club": "救护骑士团",
     "weapon": "突击步枪",
@@ -1906,7 +1906,7 @@
   "186": {
     "name": "牛牧 朱莉",
     "intro_link": "https://kivo.wiki/data/character/186",
-    "avatar_url": "https://static.kivo.wiki/images/students/牛牧%20朱莉/avatar.png",
+    "avatar_url": "https://static.kivo.wiki/images/students/牛牧%20茱莉/avatar.png",
     "school": "歌赫娜学院",
     "club": "供餐部",
     "weapon": "霰弹枪",
@@ -1934,7 +1934,7 @@
   "192": {
     "name": "伊草 春香",
     "intro_link": "https://kivo.wiki/data/character/192",
-    "avatar_url": "https://static.kivo.wiki/images/students/伊草%20遥香/avatar.png",
+    "avatar_url": "https://static.kivo.wiki/images/students/伊草%20春香/avatar.png",
     "school": "歌赫娜学院",
     "club": "便利屋68",
     "weapon": "霰弹枪",
@@ -2018,7 +2018,7 @@
   "213": {
     "name": "美甘 妮露",
     "intro_link": "https://kivo.wiki/data/character/213",
-    "avatar_url": "https://static.kivo.wiki/images/students/美甘%20妮禄/avatar.png",
+    "avatar_url": "https://static.kivo.wiki/images/students/美甘%20尼禄/avatar.png",
     "school": "千禧年科技学院",
     "club": "C&C",
     "weapon": "冲锋枪",
@@ -2088,7 +2088,7 @@
   "230": {
     "name": "飞鸟马 时（邦尼）",
     "intro_link": "https://kivo.wiki/data/character/230",
-    "avatar_url": "https://static.kivo.wiki/images/students/飞鸟马%20时/邦尼/avatar.png",
+    "avatar_url": "https://static.kivo.wiki/images/students/飞鸟马%20时/兔女郎/avatar.png",
     "school": "千禧年科技学院",
     "club": "C&C",
     "weapon": "突击步枪",
@@ -2102,7 +2102,7 @@
   "264": {
     "name": "姬木 芽瑠",
     "intro_link": "https://kivo.wiki/data/character/264",
-    "avatar_url": "https://static.kivo.wiki/images/students/姬木%20芽瑠/avatar.png",
+    "avatar_url": "https://static.kivo.wiki/images/students/姬木%20梅露/original/avatar.png",
     "school": "红冬联邦学院",
     "club": "知识解放战线",
     "weapon": "手枪",
