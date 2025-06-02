@@ -10,7 +10,7 @@
 | ----- | ------------ |
 | `characters.json`  |  中文字段名文件 Chinese field name file |
 |  `characters_en.json` |  英文字段名文件 English field name file |
-|  `character.txt` |  文本 Text document |
+|  `character.txt` |  文本 Text document（不会更新 No longer update） |
 
 ## 📄Json格式 | Json format
 范例 Example：
