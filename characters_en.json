@@ -219,7 +219,7 @@
     "rarity": "3",
     "attack_type": "爆发",
     "defense_type": "重装甲",
-    "position": "后排",
+    "position": "SPECIAL",
     "function": "输出",
     "limit": "是"
   },
