@@ -219,7 +219,7 @@
     "rarity": "3",
     "attack_type": "爆发",
     "defense_type": "重装甲",
-    "position": "SPECIAL",
+    "position": "后排",
     "function": "输出",
     "limit": "是"
   },
@@ -1329,6 +1329,20 @@
     "function": "输出",
     "limit": "否"
   },
+  "115":{
+      "name": "羽沼 真琴",
+      "intro_link": "https://kivo.wiki/data/character/115",
+      "avatar_url": "https://static.kivo.wiki/images/students/羽沼%20真琴/avatar.png",
+      "school": "歌赫娜学院",
+      "club": "万魔殿",
+      "weapon": "狙击枪",
+      "rarity": "3",
+      "attack_type": "贯穿",
+      "defense_type": "特殊装甲",
+      "position": "SPECIAL",
+      "function": "输出",
+      "limit": "是"
+    },
   "116": {
     "name": "鬼怒川 霞",
     "intro_link": "https://kivo.wiki/data/character/116",
@@ -1523,6 +1537,20 @@
     "defense_type": "重装甲",
     "position": "SPECIAL",
     "function": "输出",
+    "limit": "否"
+  },
+  "136": {
+    "name": "丹花 伊吹",
+    "intro_link": "https://kivo.wiki/data/character/136",
+    "avatar_url": "https://static.kivo.wiki/images/students/丹花%20伊吹/avatar.png",
+    "school": "歌赫娜学院",
+    "club": "万魔殿",
+    "weapon": "突击步枪",
+    "rarity": "3",
+    "attack_type": "神秘",
+    "defense_type": "重装甲",
+    "position": "中排",
+    "function": "辅助",
     "limit": "否"
   },
   "137": {
@@ -2057,6 +2085,20 @@
     "function": "输出",
     "limit": "否"
   },
+  "227": {
+      "name": "间宵 时雨（温泉）",
+      "intro_link": "https://kivo.wiki/data/character/227",
+      "avatar_url": "https://static.kivo.wiki/images/students/%E9%97%B4%E5%AE%B5%20%E6%97%B6%E9%9B%A8/%E6%B8%A9%E6%B3%89/avatar.png",
+      "school": "红冬联邦学院",
+      "club": "227号特别班",
+      "weapon": "榴弹发射器",
+      "rarity": "3",
+      "attack_type": "贯穿",
+      "defense_type": "特殊装甲",
+      "position": "SPECIAL",
+      "function": "治疗",
+      "limit": "是"
+    },
   "228": {
     "name": "白洲 梓（泳装）",
     "intro_link": "https://kivo.wiki/data/character/228",
@@ -2225,6 +2267,62 @@
     "function": "辅助",
     "limit": "是"
   },
+  "318": {
+      "name": "勘解由小路 紫",
+      "intro_link": "https://kivo.wiki/data/character/318",
+      "avatar_url": "https://static.kivo.wiki/images/students/%E5%8B%98%E8%A7%A3%E7%94%B1%E5%B0%8F%E8%B7%AF%20%E7%B4%AB/avatar.png",
+      "school": "百鬼夜行联合学院",
+      "club": "百花缭乱纠纷调解委员会",
+      "weapon": "狙击枪",
+      "rarity": "3",
+      "attack_type": "振动",
+      "defense_type": "重装甲",
+      "position": "后排",
+      "function": "输出",
+      "limit": "否"
+    },
+    "319": {
+      "name": "不破 莲华",
+      "intro_link": "https://kivo.wiki/data/character/319",
+      "avatar_url": "https://static.kivo.wiki/images/students/%E4%B8%8D%E7%A0%B4%20%E8%8E%B2%E5%8D%8E/avatar.png",
+      "school": "百鬼夜行联合学院",
+      "club": "百花缭乱纠纷调解委员会",
+      "weapon": "狙击枪",
+      "rarity": "3",
+      "attack_type": "振动",
+      "defense_type": "重装甲",
+      "position": "后排",
+      "function": "输出",
+      "limit": "否"
+    },
+    "320": {
+      "name": "桐生 桔梗",
+      "intro_link": "https://kivo.wiki/data/character/320",
+      "avatar_url": "https://static.kivo.wiki/images/students/%E6%A1%90%E7%94%9F%20%E6%A1%94%E6%A2%97/avatar.png",
+      "school": "百鬼夜行联合学院",
+      "club": "百花缭乱纠纷调解委员会",
+      "weapon": "狙击枪",
+      "rarity": "3",
+      "attack_type": "振动",
+      "defense_type": "重装甲",
+      "position": "后排",
+      "function": "辅助",
+      "limit": "否"
+    },
+    "334": {
+      "name": "和泉元 艾米（泳装）",
+      "intro_link": "https://kivo.wiki/data/character/334",
+      "avatar_url": "https://static.kivo.wiki/images/students/和泉元%20艾米/泳装/avatar.png",
+      "school": "千禧年科技学院",
+      "club": "超自然现象调查部",
+      "weapon": "霰弹枪",
+      "rarity": "3",
+      "attack_type": "神秘",
+      "defense_type": "特殊装甲",
+      "position": "SPECIAL",
+      "function": "辅助",
+      "limit": "否"
+    },
   "340": {
     "name": "小钩 晴（露营）",
     "intro_link": "https://kivo.wiki/data/character/340",
@@ -2252,5 +2350,33 @@
     "position": "中排",
     "function": "辅助",
     "limit": "否"
+  },
+  "345": {
+      "name": "天雨 亚子（礼服）",
+      "intro_link": "https://kivo.wiki/data/character/345",
+      "avatar_url": "https://static.kivo.wiki/images/students/%E5%A4%A9%E9%9B%A8%20%E4%BA%9A%E5%AD%90/%E7%A4%BC%E6%9C%8D/avatar.png",
+      "school": "歌赫娜学院",
+      "club": "风纪委员会",
+      "weapon": "手枪",
+      "rarity": "3",
+      "attack_type": "贯穿",
+      "defense_type": "特殊装甲",
+      "position": "中排",
+      "function": "辅助",
+      "limit": "是"
+  },
+    "346": {
+      "name": "空崎 日奈（礼服）",
+      "intro_link": "https://kivo.wiki/data/character/346",
+      "avatar_url": "https://static.kivo.wiki/images/students/%E7%A9%BA%E5%B4%8E%20%E6%97%A5%E5%A5%88/%E7%A4%BC%E6%9C%8D/avatar.png",
+      "school": "歌赫娜学院",
+      "club": "风纪委员会",
+      "weapon": "重机枪",
+      "rarity": "3",
+      "attack_type": "爆发",
+      "defense_type": "弹性装甲",
+      "position": "后排",
+      "function": "输出",
+      "limit": "是"
   }
 }
